@@ -14,3 +14,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Hello, I'm Juan David Pino </h2>
+<h4><em>⚡ Web Developer ⚡</em></h4> 
+
+[![Linkedin: Juan David Pino](https://img.shields.io/badge/Juan_David_Pino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/man-flores/)](https://www.linkedin.com/in/juan-david-pino-reyes-783113116/)
+[![Twitter: Juan David Pino](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdejuata)](https://twitter.com/dejuata)
+
+
+#### A little more about me... 
+
+```javascript
+let JuanPino = {
+  skills: ['HTML', 'CSS', 'Javascript', 'Angular', 'Python', 'Git'],
+  personals_projects: {
+                        AlMovie: "App to check your favorite movies and actors",
+                        SCR: "App to plan and manage vehicles and routes",
+                        AlphaZero: "Small chess game against the machine"
+                      },
+  working_on: {
+                ColorsDay: "Automation of posts on an instagram and facebook profile"
+              },
+ 
+ interests: ['IA', 'Music', 'Go']
+ 
+}
+```
+
