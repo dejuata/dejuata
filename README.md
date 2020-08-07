@@ -27,21 +27,21 @@ Here are some ideas to get you started:
 ```javascript
 let JuanPino = {
   "skills": ["HTML", "CSS", "Javascript", "Angular", "Python", "Git"],
-  personals_projects: {
-                        AlMovie: "App to check your favorite movies and actors",
-                        SCR: "App to plan and manage vehicles and routes",
-                        AlphaZero: "Small chess game against the machine"
+  "personals_projects": {
+                        "AlMovie": "App to check your favorite movies and actors",
+                        "SCR": "App to plan and manage vehicles and routes",
+                        "AlphaZero": "Small chess game against the machine"
                       },
   "education": {
                   "institution": "Universidad del Valle",
                   "area": "Systems Engineer",
                   "endDate": "2021",
                },
-  working_on: {
-                ColorsDay: "Automation of posts on an instagram and facebook profile"
+  "working_on": {
+                "ColorsDay": "Automation of posts on an instagram and facebook profile"
               },
  
- interests: ['IA', 'Music', 'Go']
+ "interests": ['IA', 'Music', 'Go']
  
 };
 ```
