@@ -3,7 +3,7 @@
 ## ⚡ I'm a Web Developer! ⚡
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developes
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Improve my skills in Golang
 - ⚡ Fun fact: I love play guitar / piano
 
