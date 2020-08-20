@@ -1,46 +1,42 @@
-<!--
-**dejuata/dejuata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm [Juan David Pino]() 👋
 
-Here are some ideas to get you started:
+## ⚡ I'm a Web Developer! ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developes
+- 🥅 2020 Goals: Improve my skills in Golang
+- ⚡ Fun fact: I love play guitar / piano
 
-<h2> Hello 👋, I'm Juan David Pino </h2>
-<h4><em>⚡ Web Developer ⚡</em></h4> 
+### Connect with me:
 
-[![Linkedin: Juan David Pino](https://img.shields.io/badge/Juan_David_Pino-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/man-flores/)](https://www.linkedin.com/in/juan-david-pino-reyes-783113116/)
-[![Twitter: Juan David Pino](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fdejuata)](https://twitter.com/dejuata)
+[<img align="left" alt="dejuata | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]()
+[<img align="left" alt="dejuata | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dejuata)
+[<img align="left" alt="dejuata | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/juan-david-pino-reyes-783113116/)
+[<img align="left" alt="dejuata | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/dejuata01/)
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudiocode.svg" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postgresql.svg" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
+<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
+<br />
+<br />
+
+---
 
 
-#### A little more about me... 
+  <summary>:zap: Github Stats</summary>
 
-```javascript
-let JuanPino = {
-  "skills": ["HTML", "CSS", "Javascript", "Angular", "Python", "Git"],
-  "personals_projects": {
-                          "AlMovie": "App to check your favorite movies and actors",
-                          "SCR": "App to plan and manage vehicles and routes",
-                          "AlphaZero": "Small chess game against the machine"
-                        },
-  "education": {
-                  "institution": "Universidad del Valle",
-                  "area": "Systems Engineer",
-                  "endDate": "2021",
-               },
-  "working_on": {
-                  "ColorsDay": "Automation of posts on an instagram and facebook profile"
-                },
-  
-  "interests": ['IA', 'Music', 'Go']
- 
-};
-```
+  <img align="left" alt="dejuata's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dejuata&show_icons=true&hide_border=true" />
+
 
