@@ -2,6 +2,7 @@
 
 ## ⚡ I'm a Web Developer! ⚡
 
+- 💻 I'm currently working in Opal Group S.A.S.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Improve my skills in Golang
