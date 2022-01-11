@@ -2,7 +2,7 @@
 
 ## ⚡ I'm a Web Developer! ⚡
 
-- 💻 I'm currently working in SIESA.
+- 💻 I'm currently working in PRAGMA.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Improve my skills in Angular, React and Python
