@@ -1,6 +1,6 @@
 ### Hi there, I'm [Juan David Pino]() 👋
 
-## ⚡ I'm a Web Developer! ⚡
+## ⚡ I'm a Frontend Developer! ⚡
 
 - 💻 I'm currently working in PRAGMA.
 - 🌱 I’m currently learning everything 🤣
